@@ -6,7 +6,6 @@ Public Class Form1
 
         Dim hSt As String
         Dim wSt As String
-
         hSt = txtHeight.Text
         wSt = txtWeight.Text
 
